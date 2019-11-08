@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PA1908 Music</string>
+    <string name="title_music">Music</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="title_setting">Setting</string>
+    <string name="navigation_drawer_open">navigation drawer open</string>
+    <string name="navigation_drawer_close">navigation drawer close</string>
+</resources>
